@@ -13,6 +13,6 @@ public class Mavenproject1 {
     public static void main(String[] args) {
         Shouter shouter = new Shouter();
         
-        shouter.shout("Hidup Mulyono");
+        shouter.shout("Hidup Mul");
     }
 }
